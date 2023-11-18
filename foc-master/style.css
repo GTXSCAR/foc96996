@@ -1,0 +1,108 @@
+
+body{
+  background-color: #006eff;}
+/* Style the footer content */
+  
+nav {
+  float:center;
+  text-align: center;
+ 
+  background-color: rgb(66, 240, 43);
+  
+  
+  padding: 3px;
+  font-family: Arial, sans-serif;
+
+  color: rgb(255, 146, 127);
+  padding: 3%;
+  
+
+  border-radius: 200%;
+  border-width: 10cap;
+} 
+
+nav ul {
+  list-style: none;
+  color: red;
+}
+
+nav li {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+
+section {
+  font-family: Arial, sans-serif;
+  background-color: #006eff;;
+  color: rgb(142, 255, 127);
+  padding: 3%;
+  border: #006eff;;
+  border-color: #006eff;;
+  border-radius: 10%;
+  border-width: 10cap;
+  font-weight: bold;
+  font-size: 24px; /* Adjust the size as needed */
+  line-height: 1.5; /* Adjust the line height as needed */
+}
+#idk{
+  background-color: rgb(120, 221, 120);
+}
+a :hover{
+  background-color: green;
+} 
+header {
+  background-color: #006eff;;
+  color:rgb(154, 245, 133);
+  padding: 10px 0;
+  text-align: center;
+  position: relative;
+  padding: 30px;
+  font-weight: bold;
+
+}
+h1{
+
+  background-color: rbg();
+
+  color:aqua;
+}
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+nav a:visited {
+  color: #006eff;
+  background-color: transparent;
+  text-decoration: none;
+}
+#lol  {
+  color: #006eff;
+  background-color: rgb(88, 253, 67);
+  border-radius: 10%;
+  border-width: 3px;
+}
+
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+nav a:hover {
+  background-color: #ae00ff; /* Change the background color on hover */
+  color: #333; /* Change the text color on hover */
+}
+footer{
+  font-family: Arial, sans-serif;
+  background-color: #006eff;;
+  color: rgb(247, 246, 250);
+  padding: 3%;
+  border: #ae00ff;
+  border-color: #ae00ff;
+  border-radius: 10%;
+  border-width: 10cap;
+  text-align: center;
+}
